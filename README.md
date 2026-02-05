@@ -1,101 +1,92 @@
-# 👋 Hello World! I'm Sravani Mamidi
+## 👋 Hi, I’m Sravani Mamidi
 
-🎓 A passionate Master's student in **Computer Science** at *Governors State University* with a solid foundation in **software development, machine learning**, and an expanding interest in **full-stack web technologies**. I believe in solving real-world problems through clean, efficient, and scalable code.
+🎓 Master’s student in **Computer Science** with a **strong foundation in Java, SQL, Data Structures & Algorithms, and Object-Oriented Programming**. I’m focused on building a solid career in **software development**, with a growing interest in **backend systems and application architecture**.
 
-💡 I’m a lifelong learner who loves to experiment, build, and grow with every opportunity. Whether it’s Java or React, a backend system or a data model—I’m excited to explore it all.
+I enjoy breaking down problems logically, understanding how systems work under the hood, and writing clean, maintainable code that scales.
 
 ---
 
 ## 🎯 Current Focus
 
-🚀 I’m currently **broadening my skillset** in **full-stack development**, focusing on:
-
-- 📌 React.js & Node.js
-- 📌 Express.js & RESTful APIs
-- 📌 MongoDB & PostgreSQL
-- 📌 Deployment, Hosting & Cloud Fundamentals
-
-I'm blending this with my solid base in programming, data structures, and problem-solving.
+- Strengthening **Java fundamentals and DSA** through consistent practice  
+- Learning **Spring Boot** and **RESTful API development**  
+- Improving backend design skills with **SQL and relational databases**  
+- Applying **software engineering principles** in real-world projects  
 
 ---
 
-## 🧠 Core Strengths
+## 🧠 Core Skills
 
-| Area                  | Technologies & Skills                                                                 |
-|-----------------------|----------------------------------------------------------------------------------------|
-| **Programming Languages** | Java, Python, JavaScript, C                                                         |
-| **Web Technologies**  | HTML, CSS, JavaScript, React.js *(learning)*, Node.js *(learning)*                    |
-| **Databases**         | SQL *(medium)*, MySQL *(basic)*, MongoDB *(learning)*, PostgreSQL *(learning)*        |
-| **Concepts**          | Object-Oriented Programming, DSA, RESTful APIs *(learning)*, Software Architecture     |
-| **Machine Learning**  | Data Preprocessing, Model Training, Random Forest, Pandas, NumPy, Scikit-learn         |
-| **Tools**             | Git, VS Code, Replit, Jupyter Notebook                                                 |
+**Languages:**  
+Java, Python, SQL  
 
----
+**Technologies & Tools:**  
+Spring Boot *(learning)*, RESTful APIs *(learning)*, Git, GitHub, VS Code,  
+HTML, CSS, JavaScript, React.js  
 
-## 💼 Experience Snapshot
-
-### 🔹 Software Developer Intern — *NayVri Technologies*
-📍 Hyderabad, India | 📅 Sep 2023 – Feb 2024  
-- Streamlined a **Billing Management System** using Java—boosted efficiency by 30%.
-- Resolved major performance bottlenecks and improved reliability by 25%.
-- Designed robust error-handling modules, ensuring 99% accuracy in transactions.
+**Concepts:**  
+Data Structures & Algorithms,  
+Object-Oriented Programming (OOP),  
+Software Engineering Practices,  
+SOLID Principles, Design Patterns,  
+Database Management Systems,  
+Agile & SDLC  
 
 ---
 
-### 🔹 Machine Learning Intern — *Cyberaegis IT Solutions*
-📍 Hyderabad, India | 📅 Jun 2022 – Aug 2022  
-- Built a **Weight Category Prediction** system using Random Forest Classifier.
-- Engineered clean data pipelines using Pandas, NumPy, and Scikit-learn.
-- Delivered insightful visualizations and evaluation metrics with Matplotlib & Seaborn.
+## 💼 Experience
+
+### 🔹 Software Engineering Intern — *Meeedly* (Remote)
+- Worked in an **Agile, cross-functional engineering environment**, collaborating with global teams.
+- Contributed to **internal technical documentation**, analyzing application components to understand **system behavior and data flow**.
+- Gained hands-on exposure to **real-world software development practices**, collaboration, and SDLC.
 
 ---
 
-## 🧪 Academic Projects
-
-### 🧬 Pharmacy Management System (Python + Tkinter)
-- Built a 3-tier architecture: **Presentation, Application, and Data Layers**
-- GUI developed using Tkinter with intuitive buttons, labels, and entry widgets
-- Ensured robust error handling and data integrity using CSV storage
+### 🔹 Machine Learning Intern — *CyberAegis IT Solutions* (2022)
+- Built a **Weight Category Prediction** model using a **Random Forest classifier** based on BMI data.
+- Gained exposure to **data preprocessing, model training, and evaluation** using Python.
 
 ---
 
-## 🌱 Academic Journey
+## 🧪 Projects
 
-🎓 **M.S. in Computer Science**  
-*Governors State University* — May 2026 *(Expected)*  
-📚 Key Courses: Advanced OS, Java, Scripting Languages, Automata Theory, Software Project Planning
+### 🧾 Pharmacy Management System (Java)
+- Designed and implemented a **console-based Java application** using **OOP principles**.
+- Managed entities such as customers, doctors, and medicines using **Java Collections**.
+- Strengthened backend logic, control flow, and modular design skills.
 
-🎓 **B.Tech from RGUKT** *(Rajiv Gandhi University of Knowledge Technologies)* — May 2023  
-📚 Key Courses: Java OOP, Pattern Recognition, IOT, Digital Image Processing, Embedded Systems
+### 📝 Document Editor (Design Concepts)
+- Applied **SOLID principles and design patterns** to define system structure and extensibility.
+- Focused on **software architecture, class responsibilities, and design reasoning**.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science**  
+*Governors State University* — *Expected May 2026*  
+
+Relevant Coursework:  
+Java Programming, Application Architecture, Advanced Database Management Systems,  
+Advanced Operating Systems, Software Project Planning & Management
 
 ---
 
 ## 💡 Interests
 
-- 🧠 Problem Solving using **Advanced Java**
-- 🌐 Creating dynamic **web applications** through modern full-stack tools
-- ☁️ Building & deploying on **cloud-based platforms**
-- 🛢️ Designing efficient, **scalable databases** for large-scale apps
+- Backend software development using **Java**
+- Designing clean, maintainable systems
+- Understanding **how software works internally**
+- Continuous learning and problem solving
 
 ---
 
-## 🎨 Outside the Code
+## 🤝 Let’s Connect
 
-While I love building software, I also enjoy expressing creativity through:
-
-- ✂️ **Crafting** paper-based art
-- 🖌️ **Painting** in my downtime
-- 🎧 **Listening to music** (instrumental & pop)
-- 🎬 **Watching dramas** from various cultures
+📫 Email: **sravanichinnu0717@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/sravani-mamidi**
 
 ---
 
-## 🤝 Let's Connect!
-
-📫 Email: [sravanichinnu0717@gmail.com](mailto:sravanichinnu0717@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/sravani-mamidi](https://www.linkedin.com/in/sravani-mamidi)
-
----
-
-> 💬 *“Code is not just logic—it's creativity, empathy, and a bridge between ideas and impact.”*
-
+> *“Strong fundamentals build strong engineers.”*
