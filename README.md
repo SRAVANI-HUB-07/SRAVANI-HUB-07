@@ -13,9 +13,13 @@ I enjoy designing clean REST APIs, working with databases, and turning ideas int
 **Backend:** Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs, Microservices
 
 **Frontend:** React, Angular, JavaScript, HTML, CSS
+
 **Databases:** MySQL, Oracle, SQL
+
 **AI / GenAI:** LLM integration, RAG, Embeddings, Semantic Search, Prompt Engineering, LangChain
+
 **Cloud & Tools:** AWS, Docker, Jenkins, Git, Maven
+
 **Testing:** JUnit, Mockito
 
 ---
