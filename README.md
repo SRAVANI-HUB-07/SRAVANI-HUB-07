@@ -1,92 +1,65 @@
-## 👋 Hi, I’m Sravani Mamidi
+## Hi, I'm Sravani 👋
 
-🎓 Master’s student in **Computer Science** with a **strong foundation in Java, SQL, Data Structures & Algorithms, and Object-Oriented Programming**. I’m focused on building a solid career in **software development**, with a growing interest in **backend systems and application architecture**.
+**Java Software Engineer | Full-Stack Developer | Building AI-Enhanced Applications**
 
-I enjoy breaking down problems logically, understanding how systems work under the hood, and writing clean, maintainable code that scales.
+I build backend systems and full-stack web applications with **Java, Spring Boot, and React**, and I'm focused on adding practical AI features to real software, like LLM integration, RAG, and semantic search.
 
----
-
-## 🎯 Current Focus
-
-- Strengthening **Java fundamentals and DSA** through consistent practice  
-- Learning **Spring Boot** and **RESTful API development**  
-- Improving backend design skills with **SQL and relational databases**  
-- Applying **software engineering principles** in real-world projects  
+I enjoy designing clean REST APIs, working with databases, and turning ideas into applications that are secure, tested, and ready for real users.
 
 ---
 
-## 🧠 Core Skills
+### 🔧 What I work with
 
-**Languages:**  
-Java, Python, SQL  
-
-**Technologies & Tools:**  
-Spring Boot *(learning)*, RESTful APIs *(learning)*, Git, GitHub, VS Code,  
-HTML, CSS, JavaScript, React.js  
-
-**Concepts:**  
-Data Structures & Algorithms,  
-Object-Oriented Programming (OOP),  
-Software Engineering Practices,  
-SOLID Principles, Design Patterns,  
-Database Management Systems,  
-Agile & SDLC  
+**Backend:** Java, Spring Boot, Spring Security, Hibernate/JPA, REST APIs, Microservices
+**Frontend:** React, Angular, JavaScript, HTML, CSS
+**Databases:** MySQL, Oracle, SQL
+**AI / GenAI:** LLM integration, RAG, Embeddings, Semantic Search, Prompt Engineering, LangChain
+**Cloud & Tools:** AWS, Docker, Jenkins, Git, Maven
+**Testing:** JUnit, Mockito
 
 ---
 
-## 💼 Experience
+### 🎯 What I'm interested in
 
-### 🔹 Software Engineering Intern — *Meeedly* (Remote)
-- Worked in an **Agile, cross-functional engineering environment**, collaborating with global teams.
-- Contributed to **internal technical documentation**, analyzing application components to understand **system behavior and data flow**.
-- Gained hands-on exposure to **real-world software development practices**, collaboration, and SDLC.
-
----
-
-### 🔹 Machine Learning Intern — *CyberAegis IT Solutions* (2022)
-- Built a **Weight Category Prediction** model using a **Random Forest classifier** based on BMI data.
-- Gained exposure to **data preprocessing, model training, and evaluation** using Python.
+- Backend engineering: APIs, data modeling, authentication, and performance
+- Full-stack development with Spring Boot + React
+- Building AI features into applications, not just calling a model, but making it useful, reliable, and part of the product
+- Cloud deployment on AWS
 
 ---
 
-## 🧪 Projects
+### 🌱 Currently learning
 
-### 🧾 Pharmacy Management System (Java)
-- Designed and implemented a **console-based Java application** using **OOP principles**.
-- Managed entities such as customers, doctors, and medicines using **Java Collections**.
-- Strengthened backend logic, control flow, and modular design skills.
-
-### 📝 Document Editor (Design Concepts)
-- Applied **SOLID principles and design patterns** to define system structure and extensibility.
-- Focused on **software architecture, class responsibilities, and design reasoning**.
+- TypeScript
+- PostgreSQL
+- JWT authentication
+- CI/CD with GitHub Actions and deploying to AWS
 
 ---
 
-## 🎓 Education
+### 📌 Featured projects
 
-**Master of Science in Computer Science**  
-*Governors State University* — *Expected May 2026*  
-
-Relevant Coursework:  
-Java Programming, Application Architecture, Advanced Database Management Systems,  
-Advanced Operating Systems, Software Project Planning & Management
+<!-- Add 2-4 of your best projects here once pushed. Example format:
+- **[Project Name](link)** – One line on what it does. *Java, Spring Boot, React, MySQL*
+-->
 
 ---
 
-## 💡 Interests
+### 🎓 Education
 
-- Backend software development using **Java**
-- Designing clean, maintainable systems
-- Understanding **how software works internally**
-- Continuous learning and problem solving
+**M.S. in Computer Science** – Governors State University, Illinois (May 2026)
 
 ---
 
-## 🤝 Let’s Connect
+### 🏅 Certifications
 
-📫 Email: **sravanichinnu0717@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/sravani-mamidi**
+- AWS Certified AI Practitioner (AIF-C01)
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
 ---
 
-> *“Strong fundamentals build strong engineers.”*
+### 📫 Connect with me
+
+[LinkedIn](https://linkedin.com/in/sravani-mamidi) · sravani1388@careerattainment.com
+
+Open to **Software Engineer, Backend, Full-Stack, and AI Application Engineer** roles. Happy to relocate anywhere in the US.
