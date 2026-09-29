@@ -42,14 +42,6 @@ I enjoy designing clean REST APIs, working with databases, and turning ideas int
 
 ---
 
-### 📌 Featured projects
-
-<!-- Add 2-4 of your best projects here once pushed. Example format:
-- **[Project Name](link)** – One line on what it does. *Java, Spring Boot, React, MySQL*
--->
-
----
-
 ### 🎓 Education
 
 **M.S. in Computer Science** – Governors State University, Illinois (May 2026)
